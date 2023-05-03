@@ -1,3 +1,7 @@
-# Ignore venv
+# Ignore venv folder
 
 venv
+
+# Ignore .idea folder
+
+.idea
